@@ -1,0 +1,20 @@
+body{
+    min-height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#mybox{
+    border: 2px none;
+    background: rgb(106, 214, 106);
+    width: 100px;
+    padding: 22px;
+    height: 100px;
+    font-size: x-large;
+    display: flex;
+      justify-content: center;
+      justify-items: center;
+    align-items: center;
+   position: relative;
+
+}
+
